@@ -14,10 +14,10 @@
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/zhtcn_karaca" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%ffffff.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=pink" />
   </a> 
  <a href="https://twitter.com/zhtcn_karaca" target="_blank">
-   <img alt="Instagram" src="https://img.shields.io/badge/twitter-%23E4405F.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+   <img alt="Instagram" src="https://img.shields.io/badge/twitter-%230077B5.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
   <a href="http://zahitcankaraca.unaux.com/" target="_blank">
    <img alt="Instagram" src="https://img.shields.io/badge/DEV-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white" />
