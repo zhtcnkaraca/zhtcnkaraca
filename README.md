@@ -1,4 +1,4 @@
-# Hi there, I'm Zahit Can <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# Hi there, I'm Zahit Can <img src="https://media.giphy.com/media/kH6CqYiquZawmU1HI6/source.gif" width="50">
 
 - 👨‍💻 I am currently working on android development technologies.
 
