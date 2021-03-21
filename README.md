@@ -2,12 +2,6 @@
 
 - 👨‍💻 I am currently working on android development technologies.
 
-### Languages
-
-![Java](https://img.shields.io/badge/-Java-000?&logo=java)
-![Python](https://img.shields.io/badge/-Python-000?&logo=python)
-
-
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p><a href="https://www.linkedin.com/in/zahit-can-karaca-5942541b1/" target="_blank">
